@@ -9,8 +9,7 @@ class Users {
         { id: 5,name: 'Katlego', surname:'Fenyane',age:24,location:'Jane Furse',gender:'Female'},
         { id: 6,name: 'Thabiso', surname:'Fenyane',age:22,location:'Mphahlele',gender:'Male'},
         { id: 7,name: 'Thandie', surname:'Fenyane',age:17,location:'Bochum',gender:'Female'},
-        { id: 8,name: 'Masesi', surname:'Fenyane',age:16,location:'Polokwane',gender:'Female'},
-        { id: 9,name: 'Maria', surname:'Kekana',age:18,location:'Lebowakgomo',gender:'Female'},
+    
     ]
 }
 export default new Users()

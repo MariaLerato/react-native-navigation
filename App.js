@@ -6,6 +6,7 @@ import AboutUsers from './components/aboutuser';
 import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons'
 import MyProfile from './components/about';
 import Contact from './components/profile';
+import ModalPractice from './new-components/landing';
 
 export default function App() {
   const Tab = createBottomTabNavigator()
